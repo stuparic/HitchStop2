@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "HitchStop2"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HitchStop2-8125b7b0-d8f0-4304-a595-b312e8dfb8ad;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
